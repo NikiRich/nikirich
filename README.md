@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikita Bogatyy</h1>
 <h3 align="center">Aspiring FrontEnd Developer, and a pursuer of Computer Science and Information Systems degrees.</h3>
+<h3 align="center">Doing CyberSecurity for a hobby.</h3>
 
 - 🌱 I’m currently learning **React, NodeJS**
 
