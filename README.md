@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nikita Bogatyy</h1>
-<h3 align="center">I am interested in technology and innovations around it, working out and spending quality time with people close to me.
-Currently, I am at my last year at AUBG pursuing the Computer Science and Information Systems degrees.
+<br>
+<h3 align="center">I am interested in technology and innovations around it, working out and spending quality time with people close to me.<br>
+Currently, I am at my last year at AUBG pursuing the Computer Science and Information Systems degrees.<br>
 My main areas of interest are Website Development and Cybersecurity.
 </h3>
-
+<br>
 
 - 🎓 I’m currently learning: **React, NodeJS, Cybersecurity.**
 
