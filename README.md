@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nikita Bogatyy</h1>
-<h3 align="center">Aspiring FrontEnd Developer, and a pursuer of Computer Science and Information Systems degrees.</h3>
-<h3 align="center">Doing CyberSecurity as a hobby.</h3>
+<h3 align="center">I am interested in technology, innovations around it, working out and spending quality time with people close to me.
 
-- 🎓 I’m currently learning: **React, NodeJS**
+</h3>
+
+
+- 🎓 I’m currently learning: **React, NodeJS, Cybersecurity.**
 
 - 📫 How to reach me: **businessnbfr@gmail.com**
 <p align="left">
