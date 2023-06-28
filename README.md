@@ -2,11 +2,12 @@
 <h3 align="center">Aspiring FrontEnd Developer, and a pursuer of Computer Science and Information Systems degrees.</h3>
 <h3 align="center">Doing CyberSecurity as a hobby.</h3>
 
-- 🌱 I’m currently learning: **React, NodeJS**
+- 🎓 I’m currently learning: **React, NodeJS**
 
 - 📫 How to reach me: **businessnbfr@gmail.com**
 <p align="left">
-<a href="https://linkedin.com/in/nikitabogatyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikitabogatyy" height="30" width="40" /></a>
+<h3>My social network:</h3><a href="https://linkedin.com/in/nikitabogatyy" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikitabogatyy" height="30" width="40" /></a>
 </p>
 
 
