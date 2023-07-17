@@ -6,9 +6,9 @@ My main areas of interest are Website Development and Cybersecurity.
 </h3>
 <br>
 
-- 🎓 I’m currently learning: **React, NodeJS, Cybersecurity.**
+- 🎓 **I’m currently learning:** **React, NodeJS, Cybersecurity.**
 
-- 📫 How to reach me: **businessnbfr@gmail.com**
+- 📫 **How to reach me:** **businessnbfr@gmail.com**
 <p align="left">
 <h3>My social network:</h3><a href="https://linkedin.com/in/nikitabogatyy" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikitabogatyy" height="30" width="40" /></a>
