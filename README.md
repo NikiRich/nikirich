@@ -20,7 +20,7 @@ My main areas of interest are Website Development and Cybersecurity.
 
 <h3 align="left">TryHackMe:</h3>
 
-<p><img src="https://tryhackme-badges.s3.amazonaws.com/NikiRich.png" alt="TryHackMe" /></p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/NikiRich.png?3" />
 
 <p><img align="left" src="https://github-readme-stats-vlr5-nikirich.vercel.app/api/top-langs?username=nikirich&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="nikirich" /></p>
 
