@@ -27,6 +27,3 @@ My main areas of interest are Website Development and Cybersecurity.
 <h3 align="left">TryHackMe:</h3>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/NikiRich.png?0" />
-
-<h3 align="left">Hack The Box Academy:</h3>
-<img src="https://manager.2pdf.com/apps/storage/files/9103991/result/HTB%20Academy%20Student%20Transcript.jpeg" />
