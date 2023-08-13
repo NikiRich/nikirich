@@ -6,7 +6,7 @@ My main areas of interest are Website Development and Cybersecurity.
 </h3>
 <br>
 
-- 🎓 **I’m currently learning:** **React, NodeJS, Cybersecurity.**
+- 🎓 **I’m currently mostly focusing on learning: Cybersecurity & React**
 
 - 📫 **How to reach me:** **businessnbfr@gmail.com**
 <p align="left">
