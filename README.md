@@ -27,7 +27,7 @@ My main areas of interest are Website Development and Cybersecurity.
 <h3 align="left"><a href="https://tryhackme.com/p/NikiRich" target="_blank">TryHackMe:</a></h3>
 
 
-<a href="https://tryhackme.com/p/NikiRich" target="_blank"><img src="https://github.com/NikiRich/nikirich/assets/114956766/320d1fb6-e12b-4369-bd7e-4aa654e3cef3" alt="TryHackMe"></a>
+<a href="https://tryhackme.com/p/NikiRich" target="_blank"><img src="https://github.com/NikiRich/nikirich/assets/114956766/dcbbfc4e-c486-422e-b166-2f19c125ced2" alt="TryHackMe"></a>
 <h3 align="left">Hack The Box Academy:</h3>
 
 <a href="https://drive.google.com/file/d/1ZjO-x2NzZuZhiaDIPK_4GIwUxCskdHXL/view?usp=drive_link" target="_blank"><img src="-hkbia9cyurlmwrxh-1.jpg" alt="HackTheBoxAcademy"></a>
