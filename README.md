@@ -23,6 +23,7 @@ My main areas of interest are Website Development and Cybersecurity.
 <p><img align="center" src="https://github-readme-stats-vlr5-nikirich.vercel.app/api?username=nikirich&theme=blue-green&include_all_commits=true&show_icons=true&locale=en" alt="nikirich" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=nikirich&theme=soft-green&border_radius=5&card_width=500" /></p>
+<p><img align="center" src="https://github.com/NikiRich/nikirich/assets/114956766/fcbaf349-8bd2-4fda-b3c6-0c5b6e3d75b2"/></p>
 
 <h3 align="left">TryHackMe:</h3>
 
